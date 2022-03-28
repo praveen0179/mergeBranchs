@@ -1,1 +1,3 @@
-version3 of the same file hello.txt
+version4 of the same file hello.txt
+and this is going to give some conflicts
+
