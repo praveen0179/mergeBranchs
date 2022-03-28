@@ -1,1 +1,2 @@
-Feature 1 of the freatureee
+Feature 2 of the freatureee
+and this feature is enabled with other feature
